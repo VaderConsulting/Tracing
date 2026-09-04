@@ -16,6 +16,10 @@ VB.NET VS 2008 scratch for sending System.Diagnostics.Trace over UDP. Tester Win
 
 Open `Tracing.sln` in Visual Studio 2008 (solution format 10.00). Tester and Tracing target .NET Framework 3.5. The solution includes sibling `UDP` at `..\UDP\UDP\UDP.vbproj` and `Tester`; it does not include `Tracing\Tracing.vbproj`. Place the UDP project (next import) beside this folder so that path resolves.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Tracing`. `AssemblyCompany` / `AssemblyCopyright` are Microsoft 2010, the Visual Studio 2008 project template default, not Microsoft-owned sample code.
