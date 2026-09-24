@@ -22,7 +22,7 @@ Open `Tracing.sln` in Visual Studio 2008 (solution format 10.00). Tester and Tra
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Tracing`. `AssemblyCompany` / `AssemblyCopyright` are Microsoft 2010, the Visual Studio 2008 project template default, not Microsoft-owned sample code.
+Working copy from my Historical Dev folder `Tracing`. `AssemblyCompany` / `AssemblyCopyright` are Microsoft 2010, the Visual Studio 2008 project template default, not Microsoft-owned sample code.
 
 ## License
 
